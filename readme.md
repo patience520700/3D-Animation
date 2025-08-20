@@ -1,6 +1,10 @@
 # 3D Circle Animation
 
-A simple HTML & CSS project that creates a mesmerizing **3D circle animation** using pure CSS animations and transformations.
+A simple HTML & CSS project that creates a **3D circle animation** using only CSS animations and transformations.
+
+## 🚀 Live Demo
+🔗 [View Animation](https://patience520700
+.github.io/3d-circle-animation/)
 
 ## Features
 - Pure **HTML & CSS** (no JavaScript required)
