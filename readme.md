@@ -8,7 +8,6 @@ A simple HTML & CSS project that creates a **3D circle animation** using only CS
 
 ## 📸 Preview
 ![3D Circle Animation Screenshot](preview.png)  
-*(Replace `preview.png` with an actual screenshot of your animation running in the browser.)*
 
 ## 🚀 Live Demo
 🔗 [View Animation](https://patience520700
