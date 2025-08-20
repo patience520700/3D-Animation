@@ -2,6 +2,14 @@
 
 A simple HTML & CSS project that creates a **3D circle animation** using only CSS animations and transformations.
 
+[![Live Demo](https://img.shields.io/badge/Demo-View%20Here-brightgreen)](https://patience520700.github.io/3D-Animation/)
+[![Made with HTML](https://img.shields.io/badge/Code-HTML-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Made with CSS](https://img.shields.io/badge/Style-CSS-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## 📸 Preview
+![3D Circle Animation Screenshot](preview.png)  
+*(Replace `preview.png` with an actual screenshot of your animation running in the browser.)*
+
 ## 🚀 Live Demo
 🔗 [View Animation](https://patience520700
 .github.io/3d-circle-animation/)
